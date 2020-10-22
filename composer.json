@@ -1,0 +1,19 @@
+{
+    "name": "anisa/report",
+    "description": "reporting module",
+    "authors": [
+        {
+            "name": "hassan khabbaz",
+            "email": "hassan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Anisa\\Report\\": "src/"
+        }
+    }
+    ,
+    "require": {
+        "illuminate/support" : "~7"
+    }
+}
